@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.df0f8b95.chunk.css",
-    "main.js": "/static/js/main.085a6db0.chunk.js",
-    "main.js.map": "/static/js/main.085a6db0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6c04b9fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6c04b9fa.js.map",
-    "static/js/2.eaefe454.chunk.js": "/static/js/2.eaefe454.chunk.js",
-    "static/js/2.eaefe454.chunk.js.map": "/static/js/2.eaefe454.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9b4c8a4673568644f1cdce002b60c035.js": "/precache-manifest.9b4c8a4673568644f1cdce002b60c035.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.df0f8b95.chunk.css.map": "/static/css/main.df0f8b95.chunk.css.map",
-    "static/js/2.eaefe454.chunk.js.LICENSE.txt": "/static/js/2.eaefe454.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ConversorDeMoedas/static/css/main.df0f8b95.chunk.css",
+    "main.js": "/ConversorDeMoedas/static/js/main.74ae201b.chunk.js",
+    "main.js.map": "/ConversorDeMoedas/static/js/main.74ae201b.chunk.js.map",
+    "runtime-main.js": "/ConversorDeMoedas/static/js/runtime-main.c548dcd2.js",
+    "runtime-main.js.map": "/ConversorDeMoedas/static/js/runtime-main.c548dcd2.js.map",
+    "static/js/2.eaefe454.chunk.js": "/ConversorDeMoedas/static/js/2.eaefe454.chunk.js",
+    "static/js/2.eaefe454.chunk.js.map": "/ConversorDeMoedas/static/js/2.eaefe454.chunk.js.map",
+    "index.html": "/ConversorDeMoedas/index.html",
+    "precache-manifest.b49e60edc0de75ea821d6446dba679f6.js": "/ConversorDeMoedas/precache-manifest.b49e60edc0de75ea821d6446dba679f6.js",
+    "service-worker.js": "/ConversorDeMoedas/service-worker.js",
+    "static/css/main.df0f8b95.chunk.css.map": "/ConversorDeMoedas/static/css/main.df0f8b95.chunk.css.map",
+    "static/js/2.eaefe454.chunk.js.LICENSE.txt": "/ConversorDeMoedas/static/js/2.eaefe454.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ConversorDeMoedas/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c04b9fa.js",
+    "static/js/runtime-main.c548dcd2.js",
     "static/js/2.eaefe454.chunk.js",
     "static/css/main.df0f8b95.chunk.css",
-    "static/js/main.085a6db0.chunk.js"
+    "static/js/main.74ae201b.chunk.js"
   ]
 }
